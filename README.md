@@ -615,6 +615,8 @@ F0=10,21Hz
 
 ## 4) Video
 
+https://youtu.be/QMak6wczMI8
+
 ## 5) Conclusiones
 
 - Un filtro pasa bajas es para evitar el vaso de una frecuencia indeseada, por lo cual se descarta frecuencias que no se necesitan, por lo cual este compuesto de una resistencia y un capacitador.
