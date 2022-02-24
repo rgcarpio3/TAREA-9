@@ -12,6 +12,105 @@
 
 ###  CIRCUITOS RCL Y RESONANCIA
 
+1.	Cierto circuito RLC en serie tiene los siguientes valores: R 10 Ω, C=0.047 mF, y L=5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
+
+
+![tarea_9_1](https://user-images.githubusercontent.com/99141342/155474515-af881091-4b1d-4be0-8d2c-fcacae2fea89.png)
+
+
+3. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
+
+![tarea_9_2](https://user-images.githubusercontent.com/99141342/155474529-47d8349f-bcb5-4f10-8055-e32c3d7d9a76.png)
+
+![Tarea_9_3](https://user-images.githubusercontent.com/99141342/155474544-b3724cc4-29c2-4b19-85cf-d8a2010a6287.png)
+
+
+La impedancia se incrementa a 150 Ω
+
+
+5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar
+
+![Tarea_9_4](https://user-images.githubusercontent.com/99141342/155474575-7a573c58-aa7b-405b-a588-cba633365560.png)
+
+
+
+7. Analice el circuito de la figura 17-60 para determinar lo siguiente (f 25 kHz):
+
+A) Itot
+
+B) Preal
+
+C) Pr
+
+D) Pa
+
+![Tarea_9_5](https://user-images.githubusercontent.com/99141342/155474601-a98976da-64de-44d4-ac01-51e54ea7e69c.png)
+
+
+![Tarea_9_6](https://user-images.githubusercontent.com/99141342/155474620-32013f38-63a5-4623-932c-32b5225e294f.png)
+
+
+
+9. Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
+
+![Tarea_9_7](https://user-images.githubusercontent.com/99141342/155474631-a43c16c0-ded8-4e60-a2fb-9d02948a42eb.png)
+
+![Tarea_9_8](https://user-images.githubusercontent.com/99141342/155474648-7e65e907-c91c-4981-9348-e259ab9428d1.png)
+
+
+
+11. Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+
+![Tarea_9_9](https://user-images.githubusercontent.com/99141342/155474687-3fe49b74-1382-430b-b812-189e751546a6.png)
+
+
+
+13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
+
+![Tarea_9_10](https://user-images.githubusercontent.com/99141342/155474695-12e47f6a-94ae-4877-95fe-0d88b8da958b.png)
+
+
+corriente = 500 Ma
+
+
+15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador: (a) 500 kHz (b) 1000 kHz (c) 1500 kHz (d) 2000 kHz
+
+![Tarea_9_11](https://user-images.githubusercontent.com/99141342/155474714-30ea4bbb-365c-40fa-add4-f81215b274fd.png)
+
+
+
+17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.
+
+![Tarea_9_12](https://user-images.githubusercontent.com/99141342/155474734-f4f6c270-c636-4d0e-84b5-1b0f74927afa.png)
+
+
+El ángulo de fase de -4.43° indica un circuito levemente capacitivo.
+
+
+19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
+
+![Tarea_9_13](https://user-images.githubusercontent.com/99141342/155474749-2924502c-8c60-4bc4-9438-5d52969f64d9.png)
+
+
+
+21. Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.
+
+![Tarea_9_14](https://user-images.githubusercontent.com/99141342/155474763-84b1035f-dafd-479d-8301-2747be0d71c0.png)
+
+
+
+23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
+
+![Tarea_9_15](https://user-images.githubusercontent.com/99141342/155474790-2b1aad92-a9fe-41d2-9903-471105cbf4e2.png)
+
+![Tarea_9_16](https://user-images.githubusercontent.com/99141342/155474799-b8cca613-b435-4165-b5c1-aa647358a401.png)
+
+
+
+25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
+Pr = 0 VAR
+Pa = 7,45µVA
+Preal = 538mW
 
 
 ### FILTROS PASIVOS
