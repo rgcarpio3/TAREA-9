@@ -168,6 +168,9 @@ circuito resonante dispuesto en serie en una configuración rechazabanda. Básic
 
 ![resuemnn_9_16](https://user-images.githubusercontent.com/99141342/155485951-a955cd09-aa47-4a97-8d53-f7a69497ef42.png)
 
+### MAPA CONCEPTUAL
+
+![MAPA](https://user-images.githubusercontent.com/99141342/155528647-127e726e-21b5-40a1-bd41-7ad039eef18b.jpg)
 
 
 ## 3) Explicación y Resolución de Ejercicios
