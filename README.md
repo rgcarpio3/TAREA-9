@@ -108,10 +108,86 @@ El ángulo de fase de -4.43° indica un circuito levemente capacitivo.
 
 
 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
+
+
 Pr = 0 VAR
+
 Pa = 7,45µVA
+
 Preal = 538mW
 
+
+
+27. Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente total. 
+
+![1](https://user-images.githubusercontent.com/99141342/155475107-28f5fa5e-132c-4a40-aa2d-8fb2f7c2d25e.jpeg)
+
+![27a](https://user-images.githubusercontent.com/99141342/155475130-a1ed7ac4-6c0a-48b5-9343-e371cbe74f14.jpeg)
+
+![27b](https://user-images.githubusercontent.com/99141342/155475146-be0b96f9-27fb-4024-bead-5471030fae9d.jpeg)
+
+
+29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie. 
+
+![FIGURA 2](https://user-images.githubusercontent.com/99141342/155475287-d9c2a7fd-70b1-4f7b-ae65-a137e110aeef.PNG)
+
+![29](https://user-images.githubusercontent.com/99141342/155475300-efae4800-c8c2-4896-9610-41a66fb70b35.jpeg)
+
+
+31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
+
+![FIGURA 3](https://user-images.githubusercontent.com/99141342/155475314-c3177a8e-09ee-40aa-be6c-e6730f27c400.PNG)
+
+![31](https://user-images.githubusercontent.com/99141342/155475328-136c2736-05d5-432c-9480-a49e5e796c0b.jpeg)
+
+
+33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
+entre las terminales de cada componente.
+
+![FIGURA 4](https://user-images.githubusercontent.com/99141342/155475367-2bd341fb-2a0d-49e7-a280-12950fc3dc56.PNG)
+
+![33](https://user-images.githubusercontent.com/99141342/155475381-e864c34d-df22-4600-97e0-0bada44cbfd1.jpeg)
+
+
+35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
+en la figura 17-69?
+
+![FIGURA 5](https://user-images.githubusercontent.com/99141342/155475481-3c685d9b-af6d-4636-b239-f476997e9f60.PNG)
+
+![35](https://user-images.githubusercontent.com/99141342/155475498-da949e36-3453-45a3-b8aa-6696aee6754a.jpeg)
+
+
+
+37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
+
+![FIGURA 6](https://user-images.githubusercontent.com/99141342/155475516-652397b8-178c-4cb7-854a-e01b972fbd3c.PNG)
+
+![37](https://user-images.githubusercontent.com/99141342/155475582-f3192fd7-a630-45a6-a05c-6c6f20e77b06.jpeg)
+
+
+39. En condición de resonancia, XL =2 ohm y RW = 25 ohm en un circuito RLC en paralelo. La frecuencia resonante
+es de 5 kHz. Determine el ancho de banda.
+
+![39](https://user-images.githubusercontent.com/99141342/155475601-9a8a0c20-b908-49e6-a3b5-fc4ba27c65c7.jpeg)
+
+
+41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la
+frecuencia crítica baja?
+
+![41](https://user-images.githubusercontent.com/99141342/155475614-a4688311-3588-4714-bbc3-fa131095a976.jpeg)
+
+
+43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál
+es el ancho de banda a la misma fr?
+
+
+![43](https://user-images.githubusercontent.com/99141342/155475657-b2e319dc-f872-422a-8ee8-25cf0c2d7461.jpeg)
+
+
+FILTROS 
+
+1. En cierto filtro pasabajas, XC =500 ohm y R = 2.2 kohm. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada
+es de 10 V rms?
 
 ### FILTROS PASIVOS
 
