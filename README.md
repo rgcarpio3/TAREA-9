@@ -361,6 +361,9 @@ es de 10 V rms?
 
 3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10 V.
 
+![axelejer_3](https://user-images.githubusercontent.com/99141342/155522846-e009577d-3b1c-4f57-8f7a-504264ffa446.png)
+
+
 a)
 Vsal=(R/sqrt(R^2+R^2))Vent
 
@@ -437,6 +440,16 @@ C=0.114 uF
 
 7. Trace una curva de Bode para cada una de las partes del problema 5.
 
+![axelejer_7](https://user-images.githubusercontent.com/99141342/155522893-119f4623-b362-429b-ab5e-fc259b963f41.png)
+
+![axelejer_7_1](https://user-images.githubusercontent.com/99141342/155522909-12fd12bd-cea8-4e3b-92bc-bad47d07c856.png)
+
+![axelejer_7_2](https://user-images.githubusercontent.com/99141342/155522918-2176f729-0bce-481d-965b-f30dbc3e1b61.png)
+
+![axelejer_7_3](https://user-images.githubusercontent.com/99141342/155522932-26976ad7-a3af-42c1-a547-88916cb7d2e9.png)
+
+
+
 
 9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:
 
@@ -476,7 +489,11 @@ Vsal=(2.2k/ sqrt(2.2^2+500^2)))*10)
 
 Vsal=9,75V
 
+
 13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent  10 V.
+
+![axelejer_13](https://user-images.githubusercontent.com/99141342/155522985-632ae158-54f8-48fa-9b9d-d7f0ae0c424d.png)
+
 
 a)
 Vsal=(R/(sqrt(R^2+Xc^2)))*Vent
@@ -512,8 +529,19 @@ Vsal=7,07V
 
 15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41
 
+![axelejer_15_1](https://user-images.githubusercontent.com/99141342/155523019-f4b58ec4-6179-4326-8797-4ff8e191b869.png)
+
+![axelejer_15_2](https://user-images.githubusercontent.com/99141342/155523031-213a1595-c4c2-4535-97d5-00537ad94d83.png)
+
+![axelejer_15_3](https://user-images.githubusercontent.com/99141342/155523037-ed7bf6d7-9895-432a-8cac-ccf91ff694af.png)
+
+![axelejer_15_4](https://user-images.githubusercontent.com/99141342/155523050-828f1737-04e8-414f-aa79-f79c6812d986.png)
+
 
 17. Determine la frecuencia central para cada filtro de la figura 18-43.
+
+![axelejer_17](https://user-images.githubusercontent.com/99141342/155523081-7a0d2167-5a62-4e88-a5d1-0697376fad32.png)
+
 
 a)	f0 = 1/2pisqrt(L*C)
 
@@ -532,6 +560,10 @@ La alta en a es 45 kHz y la baja es -45kHz por simetría y de igual manera en b,
 
 
 21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
+
+![axelejer_21](https://user-images.githubusercontent.com/99141342/155523149-ea2e7c9d-b1bb-484d-af3a-c6d18fa14d26.png)
+
+
 a)
 F0=sqrt(1-R^2*C/L)/2piSqrt(LC)
 
@@ -557,6 +589,9 @@ Q=2piF0*L/Rw=2pi*63,66*2.5/4=249,99
 
 25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
 
+![axelejer_25](https://user-images.githubusercontent.com/99141342/155523210-e6772e9c-de04-4164-be4d-aca97a3e604a.png)
+
+
 F0=sqrt(1-R^2*C/L)/2piSqrt(LC)
 
 F0= sqrt(1-1000^2*6.8/0,5)/2piSqrt(0.5*6,8)
@@ -571,6 +606,8 @@ F0=10,21Hz
 
 
 27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200kHz y rechazar una señal con frecuencia de 456 kHz
+
+![axelejer_27](https://user-images.githubusercontent.com/99141342/155523231-c30f5aee-1c81-4ee2-862f-58c105f5ced6.png)
 
 
 ## 4) Video
