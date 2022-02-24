@@ -26,10 +26,12 @@ En un circuito RLC en serie, la resonancia es una condición en la cual las reac
 
 En condición resonante, XL XC y los términos j se eliminan; por tanto, la impedancia es puramente resistiva.
 
-resuemnn_9_1
+
+![resuemnn_9_1](https://user-images.githubusercontent.com/99141342/155485549-d38cac56-c827-425e-8fdd-c245c8b9a9a9.png)
 
 
-resuemnn_9_2
+![resuemnn_9_2](https://user-images.githubusercontent.com/99141342/155485566-b756c152-0062-45dc-a93e-d6f91e9cc8f0.png)
+
 
 
 PARTE 2: CIRCUITOS EN PARALELO
@@ -37,7 +39,8 @@ PARTE 2: CIRCUITOS EN PARALELO
 Los conceptos de conductancia (G), susceptancia capacitiva (BC), susceptancia inductiva (BL), y admitancia (Y) fueron analizados en los capítulos 15 y 16. Las fórmulas fasoriales se vuelven a establecer aquí.
 
 
-resuemnn_9_3
+![resuemnn_9_3](https://user-images.githubusercontent.com/99141342/155485584-a37c7383-6593-4d4b-90c4-ee51bc252199.png)
+
 
 
 Relaciones de corriente En un circuito RLC dispuesto en paralelo, las corrientes que circulan por las ramas capacitiva e inductiva siempre están desfasadas en 180° entre sí (omitiendo cualquier resistencia de bobina). Como IC e IL se suman algebraicamente, la corriente total es en realidad la diferencia de sus magnitudes. Por tanto, la corriente total que entra a las ramas de L y C en paralelo siempre es menor que la corriente de rama individual más grande.
@@ -45,19 +48,22 @@ Relaciones de corriente En un circuito RLC dispuesto en paralelo, las corrientes
 Condición para resonancia ideal en paralelo De manera ideal, la resonancia en paralelo ocurre cuando XC XL. La frecuencia a la cual ocurre la resonancia se llama frecuencia resonante, exactamente como en el caso en serie. Cuando XC XL, las corrientes de rama, IC e IL, son iguales en magnitud, y, desde luego, siempre están desfasadas entre sí en 180°. Por tanto, las dos corrientes se cancelan y la corriente total es de cero.
 
 
-resuemnn_9_4
+![resuemnn_9_4](https://user-images.githubusercontent.com/99141342/155485609-15386451-c3cf-4c1c-88c3-e4e627cc0b34.png)
+
 
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 Conversión de en serie-paralelo a paralelo La configuración particular en serie-paralelo mostrada en la figura 17-36 es importante porque representa un circuito que tiene ramas L y C en paralelo, con la resistencia de devanado de la bobina tomada en cuenta como resistencia en serie en la rama L.
 
 
-resuemnn_9_5
+![resuemnn_9_5](https://user-images.githubusercontent.com/99141342/155485622-bbaebc1a-3cd3-4b96-ae7d-a18ee95355b7.png)
+
 
 Es conveniente ver al circuito en serie-paralelo de la figura 17-36 en una forma equivalente en paralelo.
 
 
-resuemnn_9_6
+![resuemnn_9_6](https://user-images.githubusercontent.com/99141342/155485653-7cdd3731-4155-41ee-ade8-233f1fe22959.png)
+
 
 
 Las fórmulas siguientes proporcionan la inductancia equivalente, Leq, y la resistencia en paralelo equivalente, Rp(eq).
