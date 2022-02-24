@@ -4,7 +4,16 @@
 
 ### 1.1) Objetivo General
 
+Analizar y comprender el funcionamiento de circuitos con decibles y el grafico de estas mediante el libro de principios de circuitos eléctricos, con el fin de realizar correctamente los ejercicios planteados.
+
 ### 1.2) Objetivos Específicos
+
+- Determinar el concepto de circuitos RC pasabajas y  pasaaltas, con el fin de solucionar problemas.
+
+- Identificar la relación entre voltajes e intensidades de circuitos RC
+
+- Conocer las gráficas o la curva de Bode para el filtro de frecuencia y voltajes de entrada y salida.
+
 
 ## 2) Marco Teórico
 
