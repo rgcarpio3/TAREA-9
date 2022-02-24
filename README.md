@@ -10,6 +10,139 @@
 
 ### RESUMEN
 
+CIRCUITOS RLC Y RESONANCIA
+
+PARTE 1: CIRCUITOS EN SERIE
+
+Como se sabe, la reactancia inductiva (XL) causa que la corriente total se retrase con respecto al voltaje aplicado. La reactancia capacitiva (XC) tiene el efecto opuesto: provoca que la corriente se adelante con respecto al voltaje. Por tanto, XL y XC tienden a contrarrestarse entre sí. Cuando son iguales, se eliminan y la reactancia total es de cero. En cualquier caso, la magnitud de la reactancia total en el circuito en serie es
+
+La impedancia total del circuito RLC se establece en forma rectangular en la ecuación 17-2, y en forma polar en la ecuación
+
+en serie típico la impedancia total se comporta como sigue: al empezar a una frecuencia muy baja, XC es alta, XL es baja, y el circuito es predominantemente capacitivo. Conforme se incrementa la frecuencia, XC disminuye y XL aumenta hasta que se alcanza un valor donde XC XL y las dos reactancias se eliminan, lo cual vuelve al circuito puramente resistivo.
+
+La gráfica de XL es una línea recta y la gráfica de XC es una curva
+
+En un circuito RLC en serie, la resonancia es una condición en la cual las reactancias capacitiva e inductiva son iguales en magnitud; por tanto, se eliminan entre sí y el resultado es una impedancia puramente resistiva
+
+En condición resonante, XL XC y los términos j se eliminan; por tanto, la impedancia es puramente resistiva.
+
+resuemnn_9_1
+
+
+resuemnn_9_2
+
+
+PARTE 2: CIRCUITOS EN PARALELO
+
+Los conceptos de conductancia (G), susceptancia capacitiva (BC), susceptancia inductiva (BL), y admitancia (Y) fueron analizados en los capítulos 15 y 16. Las fórmulas fasoriales se vuelven a establecer aquí.
+
+
+resuemnn_9_3
+
+
+Relaciones de corriente En un circuito RLC dispuesto en paralelo, las corrientes que circulan por las ramas capacitiva e inductiva siempre están desfasadas en 180° entre sí (omitiendo cualquier resistencia de bobina). Como IC e IL se suman algebraicamente, la corriente total es en realidad la diferencia de sus magnitudes. Por tanto, la corriente total que entra a las ramas de L y C en paralelo siempre es menor que la corriente de rama individual más grande.
+
+Condición para resonancia ideal en paralelo De manera ideal, la resonancia en paralelo ocurre cuando XC XL. La frecuencia a la cual ocurre la resonancia se llama frecuencia resonante, exactamente como en el caso en serie. Cuando XC XL, las corrientes de rama, IC e IL, son iguales en magnitud, y, desde luego, siempre están desfasadas entre sí en 180°. Por tanto, las dos corrientes se cancelan y la corriente total es de cero.
+
+
+resuemnn_9_4
+
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+Conversión de en serie-paralelo a paralelo La configuración particular en serie-paralelo mostrada en la figura 17-36 es importante porque representa un circuito que tiene ramas L y C en paralelo, con la resistencia de devanado de la bobina tomada en cuenta como resistencia en serie en la rama L.
+
+
+resuemnn_9_5
+
+Es conveniente ver al circuito en serie-paralelo de la figura 17-36 en una forma equivalente en paralelo.
+
+
+resuemnn_9_6
+
+
+Las fórmulas siguientes proporcionan la inductancia equivalente, Leq, y la resistencia en paralelo equivalente, Rp(eq).
+
+
+resuemnn_9_7
+
+
+donde Q es el factor de calidad de la bobina, XL/RW. Las derivaciones de estas fórmulas son bastante complicadas, y por tanto no se muestran aquí. Advierta en las ecuaciones que, con Q 10, el valor de Leq es aproximadamente el mismo que el valor original de L. Por ejemplo, si L 10 mH y Q 10, entonces:
+
+
+resuemnn_9_8
+
+
+La equivalencia de los circuitos significa que, a una frecuencia dada, cuando se aplica el mismo valor de voltaje a ambos circuitos, la misma corriente total fluye en ambos circuitos y los ángulos de fase son los mismos. De manera básica, un circuito equivalente sólo propicia que el análisis de circuitos sea más conveniente.
+
+
+FILTROS PASIVOS
+
+Filtros pasabajas
+
+Un diagrama de bloques y una curva de respuesta general para un filtro pasabajas. El intervalo de frecuencias pasadas por un filtro dentro de límites especificados se llama banda de paso del filtro. El punto considerado como extremo superior del intervalo de la banda de paso está en la frecuencia crítica, fc, como se ilustra en la figura 18-1(b). La frecuencia crítica (fc) es la frecuencia a la cual el voltaje de salida del filtro es un 70.7% del voltaje máximo. La frecuencia crítica del filtro se conoce también como frecuencia de corte, frecuencia de ruptura, o frecuencia de = 3 dB porque el voltaje de salida se encuentra a 3 dB por debajo de su valor máximo en esta frecuencia. El término dB (decibel) es una unidad utilizada comúnmente en mediciones con filtros.
+
+
+resuemnn_9_9
+
+
+Decibeles La base de la unidad decibel se deriva de la respuesta logarítmica que el oído humano presenta a la intensidad del sonido. El decibel es una medida logarítmica de la relación de una potencia a otra y de un voltaje a otro, la cual puede ser utilizada para expresar la relación de entrada a salida de un filtro.
+
+Filtros pasaaltas
+
+A un diagrama de bloques y una curva de respuesta general para un filtro pasaaltas. La frecuencia considerada como el extremo inferior de la banda de paso se llama frecuencia crítica. Al igual que en el filtro pasabajas, es la frecuencia a la cual la salida es el 70.7% de la frecuencia máxima, como indica la figura.
+
+
+resuemnn_9_10
+
+
+Filtro RC pasaaltas: se muestra un filtro RC pasaaltas. Advierta que el voltaje de salida se toma a través del resistor.
+
+
+resuemnn_9_11
+
+
+Filtro RL pasaaltas: un filtro RL básico pasaaltas. Observe que la salida se toma a través del inductor. Cuando la frecuencia de salida alcanza su valor crítico, XL R, y el voltaje de salida es de 0.707Vent. Conforme la frecuencia se incrementa por encima de fc, XL aumenta y, por consiguiente
+
+
+resuemnn_9_12
+
+
+Fitros pasabanda
+
+
+El ancho de banda de un filtro pasabanda es el intervalo de frecuencias dentro del cual la corriente, y por tanto el voltaje de salida, es igual o mayor que el 70.7% de su valor en la frecuencia de resonancia. Como se sabe, el ancho de banda a menudo se abrevia AB y se calcula como:
+
+
+AB = fc2 – fc1
+
+
+ donde fc1 es la frecuencia de corte baja y fc2 es la frecuencia de corte alta. La figura 18-19 muestra una curva típica de respuesta pasabanda.
+
+
+resuemnn_9_13
+
+
+Filtros rechazabanda
+
+
+Se muestra una curva general de respuesta de un filtro rechazabanda
+
+
+resuemnn_9_14
+
+
+Filtro pasabajas/pasaaltas: Se puede formar un filtro rechazabanda con un filtro pasabajas y un filtro pasaaltas
+
+
+resuemnn_9_15
+
+
+Filtro rechazabanda resonante en serie
+
+circuito resonante dispuesto en serie en una configuración rechazabanda. Básicamente, esta configuración funciona como sigue: en la frecuencia resonante, la impedancia es mínima y, por consiguiente, el voltaje de salida es mínimo. La mayor parte del voltaje de entrada disminuye a través de R. En frecuencias sobre y bajo la frecuencia de resonancia la impedancia se incrementa, lo cual provoca más voltaje en la salida.
+
+
+resuemnn_9_16
 
 
 ## 3) Explicación y Resolución de Ejercicios
