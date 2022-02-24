@@ -617,7 +617,18 @@ F0=10,21Hz
 
 ## 5) Conclusiones
 
+- Un filtro pasa bajas es para evitar el vaso de una frecuencia indeseada, por lo cual se descarta frecuencias que no se necesitan, por lo cual este compuesto de una resistencia y un capacitador.
+
+- El voltaje y la corriente se relacionan mediante la impedancia total del circuito, ya que este define el desfase del uno con respecto del otro.
+
+-  La curva de Bode sirvió para representar la respuesta de un circuito en una frecuencia determinada.
+
+
+
 ## 6) Bibliografía
 
 Circuito RLC en paralelo. Fórmulas y diagrama vectorial. Ejercicios. (2021, 26 noviembre). Clases de Matemáticas Online. https://ekuatio.com/circuito-rlc-en-paralelo-en-corriente-alterna-formulas-y-ejercicios-resueltos/#Circuito_en_paralelo_RLC
 
+Floyd, T. (2007). Circuitos RCL y resonancia. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 406-465). Pearson Educación.
+
+Floyd, T. (2007). Filtros pasivos. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 406-465). Pearson Educación.
