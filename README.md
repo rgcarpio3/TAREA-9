@@ -8,6 +8,10 @@
 
 ## 2) Marco Teórico
 
+### RESUMEN
+
+
+
 ## 3) Explicación y Resolución de Ejercicios
 
 ###  CIRCUITOS RCL Y RESONANCIA
