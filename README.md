@@ -619,3 +619,5 @@ F0=10,21Hz
 
 ## 6) Bibliografía
 
+Circuito RLC en paralelo. Fórmulas y diagrama vectorial. Ejercicios. (2021, 26 noviembre). Clases de Matemáticas Online. https://ekuatio.com/circuito-rlc-en-paralelo-en-corriente-alterna-formulas-y-ejercicios-resueltos/#Circuito_en_paralelo_RLC
+
