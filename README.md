@@ -69,13 +69,15 @@ Es conveniente ver al circuito en serie-paralelo de la figura 17-36 en una forma
 Las fórmulas siguientes proporcionan la inductancia equivalente, Leq, y la resistencia en paralelo equivalente, Rp(eq).
 
 
-resuemnn_9_7
+![resuemnn_9_7](https://user-images.githubusercontent.com/99141342/155485751-96ce1083-a220-469d-b4f1-f31d81b04322.png)
+
 
 
 donde Q es el factor de calidad de la bobina, XL/RW. Las derivaciones de estas fórmulas son bastante complicadas, y por tanto no se muestran aquí. Advierta en las ecuaciones que, con Q 10, el valor de Leq es aproximadamente el mismo que el valor original de L. Por ejemplo, si L 10 mH y Q 10, entonces:
 
 
-resuemnn_9_8
+![resuemnn_9_8](https://user-images.githubusercontent.com/99141342/155485770-1d93218d-c2c9-43fa-9971-aa9db8b008bb.png)
+
 
 
 La equivalencia de los circuitos significa que, a una frecuencia dada, cuando se aplica el mismo valor de voltaje a ambos circuitos, la misma corriente total fluye en ambos circuitos y los ángulos de fase son los mismos. De manera básica, un circuito equivalente sólo propicia que el análisis de circuitos sea más conveniente.
@@ -88,7 +90,8 @@ Filtros pasabajas
 Un diagrama de bloques y una curva de respuesta general para un filtro pasabajas. El intervalo de frecuencias pasadas por un filtro dentro de límites especificados se llama banda de paso del filtro. El punto considerado como extremo superior del intervalo de la banda de paso está en la frecuencia crítica, fc, como se ilustra en la figura 18-1(b). La frecuencia crítica (fc) es la frecuencia a la cual el voltaje de salida del filtro es un 70.7% del voltaje máximo. La frecuencia crítica del filtro se conoce también como frecuencia de corte, frecuencia de ruptura, o frecuencia de = 3 dB porque el voltaje de salida se encuentra a 3 dB por debajo de su valor máximo en esta frecuencia. El término dB (decibel) es una unidad utilizada comúnmente en mediciones con filtros.
 
 
-resuemnn_9_9
+![resuemnn_9_9](https://user-images.githubusercontent.com/99141342/155485802-ecc0db35-d1cd-49f5-a56b-4be994ac67c7.png)
+
 
 
 Decibeles La base de la unidad decibel se deriva de la respuesta logarítmica que el oído humano presenta a la intensidad del sonido. El decibel es una medida logarítmica de la relación de una potencia a otra y de un voltaje a otro, la cual puede ser utilizada para expresar la relación de entrada a salida de un filtro.
@@ -98,19 +101,22 @@ Filtros pasaaltas
 A un diagrama de bloques y una curva de respuesta general para un filtro pasaaltas. La frecuencia considerada como el extremo inferior de la banda de paso se llama frecuencia crítica. Al igual que en el filtro pasabajas, es la frecuencia a la cual la salida es el 70.7% de la frecuencia máxima, como indica la figura.
 
 
-resuemnn_9_10
+![resuemnn_9_10](https://user-images.githubusercontent.com/99141342/155485829-56bead01-f67e-4717-92f7-82006f9781a0.png)
+
 
 
 Filtro RC pasaaltas: se muestra un filtro RC pasaaltas. Advierta que el voltaje de salida se toma a través del resistor.
 
 
-resuemnn_9_11
+![resuemnn_9_11](https://user-images.githubusercontent.com/99141342/155485850-73d77e98-056a-4e86-aa07-d421d61af38b.png)
+
 
 
 Filtro RL pasaaltas: un filtro RL básico pasaaltas. Observe que la salida se toma a través del inductor. Cuando la frecuencia de salida alcanza su valor crítico, XL R, y el voltaje de salida es de 0.707Vent. Conforme la frecuencia se incrementa por encima de fc, XL aumenta y, por consiguiente
 
 
-resuemnn_9_12
+![resuemnn_9_12](https://user-images.githubusercontent.com/99141342/155485867-1593ea9b-f9ac-40a9-b510-d6802399834f.png)
+
 
 
 Fitros pasabanda
@@ -125,7 +131,8 @@ AB = fc2 – fc1
  donde fc1 es la frecuencia de corte baja y fc2 es la frecuencia de corte alta. La figura 18-19 muestra una curva típica de respuesta pasabanda.
 
 
-resuemnn_9_13
+![resuemnn_9_13](https://user-images.githubusercontent.com/99141342/155485897-501d8e07-18f3-4a65-8951-e68a776806d6.png)
+
 
 
 Filtros rechazabanda
@@ -134,13 +141,15 @@ Filtros rechazabanda
 Se muestra una curva general de respuesta de un filtro rechazabanda
 
 
-resuemnn_9_14
+![resuemnn_9_14](https://user-images.githubusercontent.com/99141342/155485912-fe7f90a6-f0e3-44cf-9aac-acee32e842d3.png)
+
 
 
 Filtro pasabajas/pasaaltas: Se puede formar un filtro rechazabanda con un filtro pasabajas y un filtro pasaaltas
 
 
-resuemnn_9_15
+![resuemnn_9_15](https://user-images.githubusercontent.com/99141342/155485926-baefddc8-68d2-4483-8969-48a4ace8631e.png)
+
 
 
 Filtro rechazabanda resonante en serie
@@ -148,7 +157,8 @@ Filtro rechazabanda resonante en serie
 circuito resonante dispuesto en serie en una configuración rechazabanda. Básicamente, esta configuración funciona como sigue: en la frecuencia resonante, la impedancia es mínima y, por consiguiente, el voltaje de salida es mínimo. La mayor parte del voltaje de entrada disminuye a través de R. En frecuencias sobre y bajo la frecuencia de resonancia la impedancia se incrementa, lo cual provoca más voltaje en la salida.
 
 
-resuemnn_9_16
+![resuemnn_9_16](https://user-images.githubusercontent.com/99141342/155485951-a955cd09-aa47-4a97-8d53-f7a69497ef42.png)
+
 
 
 ## 3) Explicación y Resolución de Ejercicios
